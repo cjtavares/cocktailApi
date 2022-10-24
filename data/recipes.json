@@ -1,0 +1,193 @@
+[
+    {
+        "name": "Boston Sour",
+        "type": "cocktail",
+        "ingredientsCheck": ["bourbon", "whiskey", "lemon juice", "lemon", "egg", "egg white", "eggs", "egg whites"],
+        "ingredients": {
+            "i1": "1 1/2oz Bourbon",
+            "i2": "3/4oz Lemon Juice",
+            "i3": "3/4oz Simple Syrup",
+            "i4": "1/2oz Egg White"
+        },
+        "garnish":{ 
+           "g1": "Lemon Twist",
+           "g2": "Angostura Bitters"
+        },
+
+        "instructions": "Add all ingredients into shaker, and dry shake for 15-30 seconds. Add ice to shaker and shake for another 15 seconds.  Double strain into a chilled coup glass. Express lemon twist overtop of cocktail, and garnish with 3 drops for bitters"
+    },
+    {
+        "name": "Whiskey Sour",
+        "type": "cocktail",
+        "ingredientsCheck": ["bourbon", "whiskey", "lemon", "lemon juice", "simple syrup"],
+        "ingredients": {
+            "i1": "2oz Bourbon",
+            "i2": "3/4oz Lemon Juice",
+            "l3": "3/4oz Simple Syrup"
+        },
+        "garnish":{ 
+           "g1": "Orange Slice",
+           "g2": "Branded Cherry"
+        },
+
+        "instructions": "Add all ingredients into shaker with ice, and shake for 15-30 seconds.  Strain into a double Old-fashioned glass over ice. Garnish with orange slice and cherry "
+    },
+    {
+        "name": "Old-Fashioned",
+        "type": "cocktail",
+        "ingredientsCheck": ["bourbon", "whiskey", "bitters", "orange bitters", "angostura", "angostura bitters", "gum syrup", "simple syrup", "rich syrup"],
+        "ingredients": {
+            "i1": "2oz Bourbon",
+            "i2": "2 Dashes Angostura Bitters",
+            "i3": "1 Dash Orange Bitters",
+            "i4": "1 Barspoon Rich Gum Syrup"
+        },
+        "garnish":{ 
+           "g1": "Orange Twist",
+           "g2": "Lemon Twist"
+        },
+
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a double Old-fashioned glass over ice. Express orange and lemon twist over the cocktail, then add each into the cocktail."
+    },
+    {
+        "name": "Vermouth Cocktail",
+        "type": "cocktail",
+        "ingredientsCheck": ["sweet vermouth", "red vermouth", "vermouth", "italian vermouth", "bitters", "orange bitters", "simple syrup"],
+        "ingredients": {
+            "i1": "2oz Sweet Vermouth",
+            "i2": "2 Dashes Angostura Bitters",
+            "i3": "1 Dash Orange Bitters",
+            "i4": "1/2 Barspoon Simple Syrup"
+        },
+        "garnish":{ 
+           "g1": "Lemon Twist"
+        },
+
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a chilled coupe. Express the lemon twist over the cocktail, and set it on the edge of glass."
+    },
+    {
+        "name": "Ti' Punch",
+        "type": "cocktail",
+        "ingredientsCheck": ["rum", "ruhm", "ruhm agricole", "cane sugar syrup", "simple syrup"],
+        "ingredients": {
+            "i1": "2oz Ruhm Agricole",
+            "i2": "1/2 Barspoon Cane Sugar Syrup",
+            "i3": "1 Thick Lime Coin"
+        },
+        "garnish":{ 
+           
+        },
+
+        "instructions": "Muddle lime coin with cane syrup in a double Old-fashioned glass.  Add the rum and fill the glass with ice. Stir the cocktail and serve."
+    },
+    {
+        "name": "Fancy Free",
+        "type": "cocktail",
+        "ingredientsCheck": ["rye", " rye whiskey", "whiskey", "maraschino", "luxardo", "maraschino liqueur", "bitters", "orange bitters", "angostura", "angostura bitters" ],
+        "ingredients": {
+            "i1": "2oz Rye Whiskey",
+            "i2": "1/2oz Luxardo Maraschino Liqueur",
+            "i3": "1 Dash Orange Bitters",
+            "i4": "1 Dash Angostura Bitters"
+        },
+        "garnish":{ 
+           "g1":"Orange Twist"
+        },
+
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a double Old-Fashioned glass over ice. Express the orange twist over the cocktail, then add it into the cocktail."
+    },
+    {
+        "name": "Monte Carlo",
+        "type": "cocktail",
+        "ingredientsCheck": ["rye", "whiskey", " rye whiskey", "benedictine", "angostura", "angostura bitters", "bitters"],
+        "ingredients": {
+            "i1": "2oz Rye Whiskey",
+            "i2": "1/2oz Benedictine",
+            "i3": "2 Dash Angostura Bitters"
+        },
+        "garnish":{ 
+           "g1":"Lemon Twist"
+        },
+
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a double Old-Fashioned glass over ice. Express the lemon twist over the cocktail, then add it into the cocktail."
+    },
+    {
+        "name": "Chrysanthemum",
+        "type": "cocktail",
+        "ingredientsCheck": ["dry vermouth", "vermouth", "french vermouth", "benedictine", "absinthe"],
+        "ingredients": {
+            "i1": "2 1/2oz Dry Vermouth",
+            "i2": "1/2oz Benedictine",
+            "i3": "1 Barspoon Absinthe"
+        },
+        "garnish":{ 
+           "g1":"Orange Twist"
+        },
+
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a chilled coupe. Express the orange twist over the cocktail, then add it into the cocktail."
+    },
+    {
+        "name": "Stinger",
+        "type": "cocktail",
+        "ingredientsCheck": ["cognac", "creme de menthe", "simple syrup"],
+        "ingredients": {
+            "i1": "2oz Cognac",
+            "i2": "1/2oz Creme de Menthe",
+            "i3": "1 Barspoon Simple Syrup"
+        },
+        "garnish":{ 
+           "g1":"Mint"
+        },
+
+        "instructions": "Add all ingredients into a shaker, and shake for 5-10 seconds, strain into an Old-Fashioned glass filled with pebbled ice. Garnish with mint."
+    },
+    {
+        "name": "Improved Whiskey Cocktail",
+        "type": "cocktail",
+        "ingredientsCheck": ["bourbon", " rye whiskey", "rye", "whiskey", "benedictine", "absinthe", "bitters", "angostura bitters", "angostura", "peychaud's bitters", "peychauds bitters", "peychauds", "peychaud's"],
+        "ingredients": {
+            "i1": "2oz Bourbon or Rye Whiskey",
+            "i2": "1 Barspoon Benedictine",
+            "i3": "1 Dash Absinthe",
+            "i4": "1 Dash Angostura Bitters",
+            "i5": "1 Dash Peychaud's Bitters"
+        },
+        "garnish":{ 
+           "g1":"Lemon Twist"
+        },
+
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a Old-Fashioned glass over ice. Express the lemon twist over the cocktail, then add it into the cocktail."
+    },
+    {
+        "name": "Champagne Cocktail",
+        "type": "cocktail",
+        "ingredientsCheck": ["champagne", "angostura bitters", "bitters", "angostura"],
+        "ingredients": {
+            "i1": "Dry Champagne",
+            "i2": "Angostura Bitters",
+            "i3": "Sugar Cube"
+        },
+        "garnish":{ 
+           "g1":"Lemon Twist"
+        },
+
+        "instructions": "Saturate the sugar cube in bitters and drop it in a chilled champagne flute. Slowly fill flute with champagne. Express the lemon twist over the cocktail, then add it into the drink."
+    },
+    {
+        "name": "Mint Julep",
+        "type": "cocktail",
+        "ingredientsCheck": ["bourbon", "rye", " rye whiskey", "whiskey", "benedictine", "absinthe", "angostura bitters", "angostura", "bitters", "peychaud's bitters", "peychaud's", "peychauds bitters", "peychauds"],
+        "ingredients": {
+            "i1": "2oz Bourbon or Rye Whiskey",
+            "i2": "1 Barspoon Benedictine",
+            "i3": "1 Dash Absinthe",
+            "i4": "1 Dash Angostura Bitters",
+            "i5": "1 Dash Peychaud's Bitters"
+        },
+        "garnish":{ 
+           "g1":"Lemon Twist"
+        },
+
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a Old-Fashioned glass over ice. Express the lemon twist over the cocktail, then add it into the cocktail."
+    }
+]
