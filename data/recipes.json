@@ -83,7 +83,7 @@
     {
         "name": "Fancy Free",
         "type": "cocktail",
-        "ingredientsCheck": ["rye", " rye whiskey", "whiskey", "maraschino", "luxardo", "maraschino liqueur", "bitters", "orange bitters", "angostura", "angostura bitters" ],
+        "ingredientsCheck": ["rye", "rye whiskey", "whiskey", "maraschino", "luxardo", "maraschino liqueur", "bitters", "orange bitters", "angostura", "angostura bitters" ],
         "ingredients": {
             "i1": "2oz Rye Whiskey",
             "i2": "1/2oz Luxardo Maraschino Liqueur",
@@ -99,11 +99,11 @@
     {
         "name": "Monte Carlo",
         "type": "cocktail",
-        "ingredientsCheck": ["rye", "whiskey", " rye whiskey", "benedictine", "angostura", "angostura bitters", "bitters"],
+        "ingredientsCheck": ["rye", "whiskey", "rye whiskey", "benedictine", "angostura", "angostura bitters", "bitters"],
         "ingredients": {
             "i1": "2oz Rye Whiskey",
             "i2": "1/2oz Benedictine",
-            "i3": "2 Dash Angostura Bitters"
+            "i3": "2 Dashes Angostura Bitters"
         },
         "garnish":{ 
            "g1":"Lemon Twist"
@@ -144,7 +144,7 @@
     {
         "name": "Improved Whiskey Cocktail",
         "type": "cocktail",
-        "ingredientsCheck": ["bourbon", " rye whiskey", "rye", "whiskey", "benedictine", "absinthe", "bitters", "angostura bitters", "angostura", "peychaud's bitters", "peychauds bitters", "peychauds", "peychaud's"],
+        "ingredientsCheck": ["bourbon", "rye whiskey", "rye", "whiskey", "benedictine", "absinthe", "bitters", "angostura bitters", "angostura", "peychaud's bitters", "peychauds bitters", "peychauds", "peychaud's"],
         "ingredients": {
             "i1": "2oz Bourbon or Rye Whiskey",
             "i2": "1 Barspoon Benedictine",
@@ -176,18 +176,47 @@
     {
         "name": "Mint Julep",
         "type": "cocktail",
-        "ingredientsCheck": ["bourbon", "rye", " rye whiskey", "whiskey", "benedictine", "absinthe", "angostura bitters", "angostura", "bitters", "peychaud's bitters", "peychaud's", "peychauds bitters", "peychauds"],
+        "ingredientsCheck": ["bourbon", "whiskey", "rich syrup", "syrup", "simple syrup", "mint"],
         "ingredients": {
-            "i1": "2oz Bourbon or Rye Whiskey",
-            "i2": "1 Barspoon Benedictine",
-            "i3": "1 Dash Absinthe",
-            "i4": "1 Dash Angostura Bitters",
-            "i5": "1 Dash Peychaud's Bitters"
+            "i1": "2oz Bourbon",
+            "i2": "1/2oz rich syrup",
+            "i3": "6-8 Mint Leaves"
+        },
+        "garnish":{ 
+           "g1":"Mint Springs"
+        },
+
+        "instructions": "Add mint to a mixing glass and lightly muddle.  Add rest of  ingredients into the mixing glass with ice, and stir until cocktail is cold.  Double strain into a chilled Julep glass half filled with crushed ice, then top off and cone with more crushed ice. Garnish with mint and serve with a straw."
+    },
+    
+    {
+        "name": "Earl Grey Tea Infused Gin",
+        "type": "infusion",
+        "ingredientsCheck": ["gin", "earl grey", "tea"],
+        "ingredients": {
+            "i1": "2 tbsp Earl Grey Tea",
+            "i2": "375ml Gin"  
+        },
+        "garnish":{ 
+           
+        },
+
+        "instructions": "Mix Gin and tea and let it infuse for about 2 hours. Strain the tea leaves and store gin."
+    },
+    {
+        "name": "MarTEAni",
+        "type": "cocktail",
+        "ingredientsCheck": ["rye whiskey", "whiskey", "demerara simple syrup", "syrup", "simple syrup", "peychaud's bitters", "bitters", "angostura bitters", "peychaud's", "angostura"],
+        "ingredients": {
+            "i1": "1 1/2oz Earl Grey Infused Gin",
+            "i2": "1oz Simple Syrup",
+            "i3": "3/4oz Lemon Juice",
+            "i4": "1 Egg White"
         },
         "garnish":{ 
            "g1":"Lemon Twist"
         },
 
-        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a Old-Fashioned glass over ice. Express the lemon twist over the cocktail, then add it into the cocktail."
+        "instructions": "Add all ingredients into shaker, and dry shake for 15-30 seconds. Add ice to shaker and shake for another 15 seconds.  Double strain into a chilled coup glass. Express lemon twist overtop of cocktail, and discard twist"
     }
 ]
