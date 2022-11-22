@@ -43,10 +43,7 @@ const recipes = (input) => {
   }
 }
 
-console.log(recipes('bourbon'));
-console.log(uniqueIngredients);
-
-
 module.exports = {
-    recipes: recipes
+    recipes: recipes,
+    uniqueIngredients: uniqueIngredients
   }

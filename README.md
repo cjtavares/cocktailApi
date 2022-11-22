@@ -16,6 +16,12 @@ cocktails.recipes()
 If no parameter is entered all recipes will be returned.
 A parameter can also be passed to search by drink name, ingredient, 
 or type of recipe(cocktail, syrup, garnish, or infusion).
-console.log(uniqueIngredients) to get a list of all ingredients that are
-searchable. 
+```
+
+```
+To get a list of all searchable ingredients:
+
+const { uniqueIngredients } = require("cocktailrecipes");
+
+console.log(uniqueIngredients); 
 ```
