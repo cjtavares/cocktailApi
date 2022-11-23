@@ -30,7 +30,7 @@
            "g2": "Branded Cherry"
         },
 
-        "instructions": "Add all ingredients into shaker with ice, and shake for 15-30 seconds.  Strain into a double Old-fashioned glass over ice. Garnish with orange slice and cherry "
+        "instructions": "Add all ingredients into shaker with ice, and shake for 15-30 seconds.  Strain into a double rocks glass over ice. Garnish with orange slice and cherry "
     },
     {
         "name": "Old-Fashioned",
@@ -47,7 +47,7 @@
            "g2": "Lemon Twist"
         },
 
-        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a double Old-fashioned glass over ice. Express orange and lemon twist over the cocktail, then add each into the cocktail."
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a double rocks glass over ice. Express orange and lemon twist over the cocktail, then add each into the cocktail."
     },
     {
         "name": "Vermouth Cocktail",
@@ -78,7 +78,7 @@
            "g1":"None"
         },
 
-        "instructions": "Muddle lime coin with cane syrup in a double Old-fashioned glass.  Add the rum and fill the glass with ice. Stir the cocktail and serve."
+        "instructions": "Muddle lime coin with cane syrup in a double rocks glass.  Add the rum and fill the glass with ice. Stir the cocktail and serve."
     },
     {
         "name": "Fancy Free",
@@ -94,7 +94,7 @@
            "g1":"Orange Twist"
         },
 
-        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a double Old-Fashioned glass over ice. Express the orange twist over the cocktail, then add it into the cocktail."
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a double rocks glass over ice. Express the orange twist over the cocktail, then add it into the cocktail."
     },
     {
         "name": "Monte Carlo",
@@ -109,7 +109,7 @@
            "g1":"Lemon Twist"
         },
 
-        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a double Old-Fashioned glass over ice. Express the lemon twist over the cocktail, then add it into the cocktail."
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a double rocks glass over ice. Express the lemon twist over the cocktail, then add it into the cocktail."
     },
     {
         "name": "Chrysanthemum",
@@ -139,7 +139,7 @@
            "g1":"Mint"
         },
 
-        "instructions": "Add all ingredients into a shaker, and shake for 5-10 seconds, strain into an Old-Fashioned glass filled with pebbled ice. Garnish with mint."
+        "instructions": "Add all ingredients into a shaker, and shake for 5-10 seconds, strain into an rocks glass filled with pebbled ice. Garnish with mint."
     },
     {
         "name": "Improved Whiskey Cocktail",
@@ -156,7 +156,7 @@
            "g1":"Lemon Twist"
         },
 
-        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a Old-Fashioned glass over ice. Express the lemon twist over the cocktail, then add it into the cocktail."
+        "instructions": "Add all ingredients into mixing glass with ice, and stir until cocktail is cold.  Strain into a rocks glass over ice. Express the lemon twist over the cocktail, then add it into the cocktail."
     },
     {
         "name": "Champagne Cocktail",
@@ -362,7 +362,7 @@
             "i2":"1/2oz Orange Juice",
             "i3":"1/2oz Pineapple Juice",
             "i4":"1/4oz Demerara Syrup",
-            "i5":"1/2oz Granadine",
+            "i5":"1/2oz Grenadine",
             "i6":"1 1/2oz Bourbon",
             "i7":"1 Dash Angostura Bitters"
         }, 
@@ -397,7 +397,7 @@
             "i1":"1/2oz Lemon Juice",
             "i2":"1/2oz Lime Juice",
             "i3":"1/2oz Orgeat",
-            "i4":"1 Barspoon Granadine",
+            "i4":"1 Barspoon Grenadine",
             "i5":"1 1/2oz Vodka"
         }, 
         "garnish":{
@@ -408,7 +408,7 @@
     {
         "name": "Captain's Grog",
         "type":"cocktail",
-        "ingredientsCheck":["lime juice", "lime", "limes", "grapefruit juice", "grapefruit", "grapefruits", "maple syrup", "maple", "syrup", "vanilla extract", "vanilla", "almond extract", "almond", "seltzer", "velvet falernum", "falerum", "curacao", "rum"],
+        "ingredientsCheck":["lime juice", "lime", "limes", "grapefruit juice", "grapefruit", "grapefruits", "maple syrup", "maple", "syrup", "vanilla extract", "vanilla", "almond extract", "almond", "seltzer", "velvet falernum", "falernum", "curacao", "rum"],
         "ingredients":{
             "i1":"1/2oz Grapefruit Juice",
             "i2":"1/2oz Lime Juice",
@@ -447,7 +447,7 @@
     {
         "name": "Merciless Virgin",
         "type":"cocktail",
-        "ingredientsCheck":["lemon", "lemons", "lemon juice","seltzer", "cherry liqueur", "velvet falernum", "falerum", "dry curacao", "curacao", "rum"],
+        "ingredientsCheck":["lemon", "lemons", "lemon juice","seltzer", "cherry liqueur", "velvet falernum", "falernum", "dry curacao", "curacao", "rum"],
         "ingredients":{
             "i1":"3/4oz Lemon Juice",
             "i2":"1/2oz Seltzer",
@@ -464,7 +464,7 @@
     {
         "name": "Saturn",
         "type":"cocktail",
-        "ingredientsCheck":["lemon", "lemons", "lemon juice","orgeat", "velvet falernum", "falerum", "gin", "passion fruit syrup", "passion fruit"],
+        "ingredientsCheck":["lemon", "lemons", "lemon juice","orgeat", "velvet falernum", "falernum", "gin", "passion fruit syrup", "passion fruit"],
         "ingredients":{
             "i1":"3/4oz Lemon Juice",
             "i2":"1/2oz Passion Fruit Syrup",
@@ -719,7 +719,7 @@
         "garnish":{
             "g1":"Mint Spring"
         },
-        "instructions": "Add all ingredients into chilled Collins glass add crushed ice leaving room to mix. Mix with swizzle stick until glass is frosty and top off with crushed ice. Garnish with mint spring and serve with a straw."
+        "instructions": "Add all ingredients into chilled Collins glass add crushed ice leaving room to mix. Mix with swizzle stick until drink is chilled and top off with crushed ice. Garnish with mint spring and serve with a straw."
     },
     {
         "name": "Shudders In A Whisper",
@@ -775,23 +775,6 @@
         "instructions": "Add all ingredients into shacker with ice and shack for 15-20 seconds. Double strain into a chilled Collins glass over ice. Garnish with lemon wedge and umbrella and serve with a straw."
     },
     {
-        "name": "Norwegian Paralysis",
-        "type":"cocktail",
-        "ingredientsCheck":["orange juice", "orange", "oranges", "pineapple juice", "pineapple", "pineapples", "lemon juice", "lemons", "lemon", "demerara syrup", "simple syrup", "orgeat", "aquavit"],
-        "ingredients":{
-            "i1":"1 1/2oz Orange Juice",
-            "i2":"1 1/2oz Pineapple Juice",
-            "i3":"1/2oz Lemon Juice",
-            "i4":"1/4oz Demerara Syrup",
-            "i5":"1/4oz Orgeat",
-            "i6":"1 1/2oz Aquavit"
-        },
-        "garnish":{
-            "g1":"Lemon Wedge"
-        },
-        "instructions": "Add all ingredients into shacker with ice and shack for 15-20 seconds. Double strain into a chilled Collins glass over ice. Garnish with lemon wedge and umbrella and serve with a straw."
-    },
-    {
         "name": "Juan Ho Royale",
         "type":"cocktail",
         "ingredientsCheck":["sparkling wine", "lime juice", "lime", "limes", "blue curacao", "curacao", "velvet falernum", "falernum", "tequila", "orgeat"],
@@ -822,17 +805,17 @@
             "g1":"Mint Spring",
             "g2":"Nutmeg"
         },
-        "instructions": "Add all ingredients into chilled Collins glass add crushed ice leaving room to mix. Mix with swizzle stick until glass is frosty and top off with crushed ice. Garnish with mint spring and freshly grated nutmeg and serve with a straw"
+        "instructions": "Add all ingredients into chilled Collins glass add crushed ice leaving room to mix. Mix with swizzle stick until drink is chilled and top off with crushed ice. Garnish with mint spring and freshly grated nutmeg and serve with a straw"
     },
     {
         "name": "Roselita",
         "type":"cocktail",
-        "ingredientsCheck":["seltzer", "lime juice", "lime", "limes", "orgeat", "hibiscus", "hibiscus syrup", "pear liqueur", "rum", "peychaud's bitters", "peychaud's", "peychauds", "peychauds bitters", "bitters"],
+        "ingredientsCheck":["seltzer", "lime juice", "lime", "limes", "orgeat", "hibiscus", "hibiscus syrup", "hibiscus liqueur", "pear liqueur", "rum", "peychaud's bitters", "peychaud's", "peychauds", "peychauds bitters", "bitters"],
         "ingredients":{
             "i1":"1 1/2oz Seltzer",
             "i2":"1/2oz Lime Juice",
             "i3":"1/2oz Orgeat",
-            "i4":"1/2oz Hibiscus Syrup",
+            "i4":"1/2oz Hibiscus Liqueur",
             "i5":"1/2oz Peach Liqueur",
             "i6":"1 1/2oz Column Still Aged Rum",
             "i7":"1 Dash Peychaud's Bitters"
@@ -841,6 +824,23 @@
             "g1":"Edible Hibiscus"
         },
         "instructions": "Add all ingredients except seltzer into shacker with ice and shack for 15-20 seconds.  Add seltzer into shacker and double strain into a chilled Collins glass over ice. Garnish with hibiscus flower and serve with a straw."
+    },
+    {
+        "name": "Hibiscus Liqueur",
+        "type":"infusion",
+        "ingredientsCheck":["ginger", "cloves", "rum", "hibiscus", "honey", "simple syrup"],
+        "ingredients":{
+            "i1":"1/2 cup Honey",
+            "i2":"1 cup Simple Syrup",
+            "i3":"1 inch piece ginger sliced",
+            "i4":"3/4 cup Hibiscus Flowers",
+            "i5":"1 liter Blended Lightly Aged Rum",
+            "i6":"10 Whole Cloves"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Add ginger, cloves, into rum and let sit for 24 hours.  Strain rum and add hibiscus to rum and let sit for 24 hours and strain, this can be used as a hibiscus infused rum.  Mix 2 1/2 cups of the hibiscus infusion with the honey and simple syrup until completely combined."
     },
     {
         "name": "Center Of The Galaxy",
@@ -889,13 +889,606 @@
             "i4":"3oz Demerara Syrup",
             "i5":"1oz Luxardo Maraschino Liqueur",
             "i6":"4oz Blended Lightly Aged Rum",
-            "17":"4oz Blended Aged Rum"
+            "i7":"4oz Blended Aged Rum"
         },
         "garnish":{
             "g1":"Lime Wheels",
             "g2":"Orange Wheels"
         },
         "instructions": "Add all ingredients into pitcher with ice and mix until.  Dump into a scorpion bowl. Add orange and lime wheels to bowl and serve with long straws."
-    }
+    },
+    {
+        "name": "The Naked Ape ",
+        "type":"cocktail",
+        "ingredientsCheck":["lemon juice", "lemon", "lemons", "cinnamon syrup", "cinnamon", "banana liqueur", "rum", "passion fruit", "rum", "angostura bitters", "angostura", "bitters"],
+        "ingredients":{
+            "i1":"1/2oz Lemon Juice",
+            "i2":"1/2oz Cinnamon Syrup",
+            "i3":"1/2oz Banana Liqueur",
+            "i4":"1 1/2oz Black Blended Rum",
+            "i5":"1/2oz Pot Still Lightly Aged Rum",
+            "i6":"1 Dash Angostura Bitters"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Add all ingredients into shacker with crushed ice and shack for 15-20 seconds.  Dump into a tiki mug and top off with ice. Serve with a straw."
+    },
+    {
+        "name": "Sparkling Mai Tai",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "orgeat", "curacao", "dry curacao", "rum", "sparkling wine"],
+        "ingredients":{
+            "i1":"1/4oz Lime Juice",
+            "i2":"1/4oz Orgeat",
+            "i3":"1/2oz Dry Curacao",
+            "i4":"1/4oz Black Blended Overproof Rum",
+            "i5":"1/2oz Blended Aged Rum",
+            "i6":"4oz Sparkling Wine"
+        },
+        "garnish":{
+            "g1":"Lime Twist",
+            "g2":"Mint spring"
+        },
+        "instructions": "Add all ingredients except sparkling wine into shacker with ice and shack for 15-20 seconds.  Double strain into a chilled coupe glass and top with sparkling wine. Garnish with mint spring and lime twist."
+    },
+    {
+        "name": "Swizzle Francais",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "sugarcane syrup", "allspice dram", "ruhm agricole", "rum", "ruhm", "agricole", "nutmeg"],
+        "ingredients":{
+            "i1":"1/2oz Lime Juice",
+            "i2":"1/2oz Sugarcane Syrup",
+            "i3":"1/4oz Allspice Dram",
+            "i4":"2oz Ruhm Agricole",
+            "i5":"Pinch Fresh Ground Nutmeg"
+        },
+        "garnish":{
+            "g1":"Mint spring"
+        },
+        "instructions": "Add all ingredients into chilled Collins glass add crushed ice leaving room to mix. Mix with swizzle stick until drink is chilled and top off with crushed ice. Garnish with mint spring and freshly grated nutmeg and serve with a straw."
+    },
+    {
+        "name": "The Ernesto",
+        "type":"cocktail",
+        "ingredientsCheck":["grapefruit soda", "soda", "limes", "lime juice", "limes", "honey syrup", "apricot liqueur", "tequila", "herbstura"],
+        "ingredients":{
+            "i1":"2oz Grapefruit Soda",
+            "i2":"1oz Lime Juice",
+            "i3":"1oz Honey Syrup",
+            "i4":"1/2oz Apricot Liqueur",
+            "i5":"2oz Tequila",
+            "i6":"1 Dash Herbstura"
+        },
+        "garnish":{
+            "g1":"Lime Wheels",
+            "g2":"Edible Orchids"
+        },
+        "instructions": "Add all ingredients except soda into shacker with ice and shack for 15-20 seconds. Add soda into chilled double rocks glass over ice then double strain shacker contents overtop. Garnish with orchids and lime wheel and serve with a straw."
+    },
+    {
+        "name": "The Sexpert",
+        "type":"cocktail",
+        "ingredientsCheck":["lemon juice", "lemon", "lemons", "passion fruit syrup", "passion fruit", "velvet falernum", "falernum", "pisco", "gin", "burlesque bitters", "bitters"],
+        "ingredients":{
+            "i1":"1/2oz Lemon Juice",
+            "i2":"1/2oz Passion Fruit Syrup",
+            "i3":"1/2oz Velvet Falernum",
+            "i4":"1 1/2oz Pisco",
+            "i5":"1/2oz Gin",
+            "i6":"6 Drops Burlesque Bitters"
+        },
+        "garnish":{
+            "g1":"Edible Orchids"
+        },
+        "instructions": "Add all ingredients into shacker with ice and shack for 15-20 seconds. Double strain into a chilled coupe glass. Garnish with orchids and lime wheel."
+    },
+    {
+        "name": "Hana Reviver",
+        "type":"cocktail",
+        "ingredientsCheck":["lemon juice", "lemon", "lemons", "passion fruit syrup", "passion fruit", "li hing mui powder", "li hing mui", "seltzer", "maraschino liqueur", "maraschino", "rum"],
+        "ingredients":{
+            "i1":"1oz Lemon Juice",
+            "i2":"1oz Passion Fruit Syrup",
+            "i3":"1/4tsp Li Hing Mui Powder",
+            "i4":"2oz Seltzer",
+            "i5":"1 Barspoon Maraschino Liqueur",
+            "i6":"2oz Pot Stilled Unaged Rum"
+        },
+        "garnish":{
+            "g1":"Mint Spring"
+        },
+        "instructions": "Add all ingredients into shacker with crushed ice and shack for 15-20 seconds. Dump into a chilled pilsner glass and top off with ice. Garnish with mint."
+    },
+    {
+        "name": "Kaiteur Swizzle",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "maple syrup","velvet falernum", "falernum", "rum", "angostura", "angostura bitters", "bitters"],
+        "ingredients":{
+            "i1":"3/4oz Lime Juice",
+            "i2":"1/2oz Maple Syrup",
+            "i3":"1/2oz Velvet Falernum",
+            "i4":"2oz Blended Aged Rum",
+            "i5":"2 Dashes Angostura Bitters"
+        },
+        "garnish":{
+            "g1":"Mint Spring"
+        },
+        "instructions": "Add all ingredients into chilled Collins glass add crushed ice leaving room to mix. Mix with swizzle stick until drink is chilled and top off with crushed ice. Garnish with mint spring and serve with a straw."
+    },
+    {
+        "name": "The Expedition",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "honey syrup", "honey", "vanilla syrup", "vanilla", "cinnamon syrup", "cinnamon", "seltzer", "rum", "coffee liqueur", "bourbon", "whiskey"],
+        "ingredients":{
+            "i1":"1oz Lime Juice",
+            "i2":"1/2oz Cinnamon Syrup",
+            "i3":"1/2oz Honey Syrup",
+            "i4":"1/4oz Vanilla Syrup",
+            "i5":"2oz Seltzer",
+            "i6":"1/4oz Coffee Liqueur",
+            "i7":"2oz Black Blended Rum",
+            "i8":"1oz Bourbon"
+        },
+        "garnish":{
+            "g1":"Edible Orchids"
+        },
+        "instructions": "Add all ingredients into shacker with crushed ice and shack for 15-20 seconds.  Dump into a tiki mug and top off with ice. Garnish with orchids and serve with a straw."
+    },
+    {
+        "name": "The Dead Reckoning",
+        "type":"cocktail",
+        "ingredientsCheck":["lemon juice", "lemon", "lemons", "pineapple juice", "pineapple", "seltzer", "maple syrup", "maple", "vanilla brandy", "brandy", "tawny port", "port", "tawny", "rum", "angostura bitters", "angostura", "bitters"],
+        "ingredients":{
+            "i1":"1oz Seltzer",
+            "i2":"1oz Lemon Juice",
+            "i3":"1oz Pineapple Juice",
+            "i4":"1/2oz Maple Syrup",
+            "i5":"1/2oz Vanilla Brandy",
+            "i6":"1/2oz Tawny Port",
+            "i7":"2oz Blended Aged Rum",
+            "i8":"1 Dash Angostura Bitters"
+        },
+        "garnish":{
+            "g1":"Pineapple Fronds",
+            "g2":"Mint Spring",
+            "g3":"Lemon Spiral"
+        },
+        "instructions": "Add all ingredients except seltzer into shacker with crushed ice and shack for 15-20 seconds.  Add seltzer into shaker and dump into a chilled Collins glass and top off with ice. Garnish and serve with a straw."
+    },
+    {
+        "name": "Vanilla Brandy",
+        "type":"infusion",
+        "ingredientsCheck":["brandy", "vanilla bean", "vanilla", "demerara syrup"],
+        "ingredients":{
+            "i1":"1 liter Brandy",
+            "i2":"1 Vanilla Bean",
+            "i3":"2oz Demerara Syrup"
 
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Slice vanilla bean length wise and add to brandy. Let it sit at room temp for 2 weeks.  After two weeks remove bean and add demerara syrup."
+    },
+    {
+        "name": "Falinum",
+        "type":"cocktail",
+        "ingredientsCheck":["lemon juice", "lemon", "lemons", "coconut cream", "coconut", "seltzer", "velvet falernum", "falernum", "rum", "orange bitters", "bitters"],
+        "ingredients":{
+            "i1":"1oz Lemon Juice",
+            "i2":"1oz Coconut Cream",
+            "i3":"1oz Seltzer",
+            "i4":"1/2oz Maple Syrup",
+            "i5":"1/2oz Velvet Falernum",
+            "i6":"2oz Column Still Aged Rum",
+            "i7":"1 Dash Orange Bitters"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Add all ingredients except seltzer into shacker with crushed ice and shack for 15-20 seconds.  Add seltzer into shaker and dump into a tiki mug and top off with ice and serve with a straw."
+    },
+    {
+        "name": "Humuhumunukunukuapua'a",
+        "type":"cocktail",
+        "ingredientsCheck":["lemon juice", "lemon", "lemons", "pineapple juice", "pineapple", "pineapples", "orgeat", "gin", "peychaud's bitters", "peychaud's", "peychauds bitters", "peychauds", "bitters"],
+        "ingredients":{
+            "i1":"3/4oz Lemon Juice",
+            "i2":"3/4oz Pineapple Juice",
+            "i3":"1/2oz Orgeat",
+            "i4":"2oz Gin",
+            "i5":"2 Dashes Peychaud's Bitters"
+        },
+        "garnish":{
+            "g1":"Edible Orchids",
+            "g2":"Branded Cherry"
+        },
+        "instructions": "Add all ingredients into shacker with crushed ice and shack for 15-20 seconds.  Dump into a chilled double rocks glass and top off with ice. Garnish with orchid and cherry on cocktail pick and serve with a straw"
+    },
+    {
+        "name": "Lauwiliwilinukunuku'oi'oi",
+        "type":"cocktail",
+        "ingredientsCheck":["lemon juice", "lemon", "lemons", "pineapple juice", "pineapple", "pineapples", "orgeat", "rum", "peychaud's bitters", "peychaud's", "peychauds bitters", "peychauds", "bitters"],
+        "ingredients":{
+            "i1":"3/4oz Lemon Juice",
+            "i2":"3/4oz Pineapple Juice",
+            "i3":"1/2oz Orgeat",
+            "i4":"2oz Blended Aged Rum",
+            "i5":"2 Dashes Peychaud's Bitters"
+        },
+        "garnish":{
+            "g1":"Edible Orchids",
+            "g2":"Branded Cherry"
+        },
+        "instructions": "Add all ingredients into shacker with crushed ice and shack for 15-20 seconds.  Dump into a chilled double rocks glass and top off with ice. Garnish with orchid and cherry on cocktail pick and serve with a straw"
+    },
+    {
+        "name": "Finkelgrog",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "grapefruit juice", "grapefruit", "grapefruits", "orgeat", "wine", "licor 43", "rum", "seltzer", "cinnamon"],
+        "ingredients":{
+            "i1":"1/2oz Lime Juice",
+            "i2":"1/2oz Grapefruit Juice",
+            "i3":"1/4oz Orgeat",
+            "i4":"1/2oz Wine Syrup",
+            "i5":"1/2oz Licor 43",
+            "i6":"1oz Blended Lightly Aged Rum",
+            "i7":"1oz Black Blended Rum",
+            "i8":"1oz Seltzer",
+            "i9":"Pinch Ground Cinnamon"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Add all ingredients into shacker except seltzer with crushed ice and shack for 15-20 seconds.  Add seltzer to shaker and dump into a chilled double rocks glass and top off with ice. Serve with a straw"
+    },
+    {
+        "name": "For Pete's Sake",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "demerara syrup", "hibiscus liqueur", "hibiscus", "cherry liqueur", "pisco", "angostura bitters", "angostura", "bitters"],
+        "ingredients":{
+            "i1":"3/4oz Lime Juice",
+            "i2":"1/2oz Demerara Syrup",
+            "i3":"1/2oz Hibiscus Liqueur",
+            "i4":"1/2oz Heering Cherry Liqueur",
+            "i5":"1 1/2oz Pisco",
+            "i6":"1 Dash Angostura Bitters"
+        },
+        "garnish":{
+            "g1":"Edible Hibiscus",
+            "g2":"Branded Cherry"
+        },
+        "instructions": "Add all ingredients into shacker with crushed ice and shack for 15-20 seconds.  Dump into a chilled double rocks glass and top off with ice. Garnish with hibiscus and cherry and serve with a straw"
+    },
+    {
+        "name": "Wine Syrup",
+        "type":"syrup",
+        "ingredientsCheck":["wine", "sugar"],
+        "ingredients":{
+            "i1":"2 cups Cabernet Sauvignon Wine",
+            "i2":"1 cup Sugar"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Simmer wine in small saucepan until reduced by half. Add sugar and stir until dissolved. Let cool and store in refrigerator in air tight bottle."
+    },
+    {
+        "name": "Arrack Punch",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "lemon juice", "lemon", "lemons", "demerara syrup", "arrack", "rum", "chai tea"],
+        "ingredients":{
+            "i1":"2oz Lime Juice",
+            "i2":"2oz Lemon Juice",
+            "i3":"3oz Demerara Syrup",
+            "i4":"6oz Arrack",
+            "i5":"2oz Pot Still Lightly Aged Rum",
+            "i6":"6oz Carbonated Chai Tea"
+        },
+        "garnish":{
+            "g1":"Lime Wheels",
+            "g2":"Lemon Wheels"
+        },
+        "instructions": "Carbonate chai tea with home soda maker.  Add all ingredients into pitcher with crushed ice and stir until cold.  Dump into a 32oz punch or tiki bowl. Add lemon and lime wheels"
+    },
+    {
+        "name": "El Draque",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "demerara syrup", "mint leaves", "mint", "cachaca", "rum"],
+        "ingredients":{
+            "i1":"3/4oz Lime Juice",
+            "i2":"1/2oz Demerara Syrup",
+            "i3":"5 Mint Leaves",
+            "i4":"2oz Cachaca"
+        },
+        "garnish":{
+            "g1":"Lime Wheel"
+        },
+        "instructions": "Add mint into shacker and lightly muddle, and in remaining rest of ingredients with crushed ice and shack for 15-20 seconds.  Double strain into a chilled coupe glass. Garnish with lime wheel."
+    },
+    {
+        "name": "Grog",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "demerara syrup", "rum"],
+        "ingredients":{
+            "i1":"1/2oz Lime Juice",
+            "i2":"1/2oz Demerara Syrup",
+            "i3":"2oz Blended Aged Rum"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Add all ingredients into a shaker with ice and shack for 15-20 seconds.  Double strain into a chilled rocks glass over ice."
+    },
+    {
+        "name": "Rum Flip",
+        "type":"cocktail",
+        "ingredientsCheck":["egg", "eggs", "demerara syrup", "rum"],
+        "ingredients":{
+            "i1":"1 egg",
+            "i2":"1/4oz Demerara Syrup",
+            "i3":"2oz Blended Aged Rum"
+        },
+        "garnish":{
+            "g1":"Nutmeg"
+        },
+        "instructions": "Add all ingredients into a shaker and dry shake 10-15 second add ice and shack for another 15-20 seconds. Double strain into a chilled rocks glass over ice. Garnish with fresh grated nutmeg."
+    },
+    {
+        "name": "Bombo",
+        "type":"cocktail",
+        "ingredientsCheck":["demerara syrup", "rum"],
+        "ingredients":{
+            "i1":"1/4oz Demerara Syrup",
+            "i2":"2oz Blended Aged Rum"
+        },
+        "garnish":{
+            "g1":"Nutmeg"
+        },
+        "instructions": "Add all ingredients into a mixing glass with ice and stir until chilled. Strain into a chilled rocks glass over ice. Garnish with fresh grated nutmeg."
+    },
+    {
+        "name": "Calibogus",
+        "type":"cocktail",
+        "ingredientsCheck":["demerara syrup", "rum", "seltzer", "lime juice", "molasses syrup", "molasses", "spruce beer soda extract", "spruce", "pine liqueur"],
+        "ingredients":{
+            "i1":"3oz Seltzer",
+            "i2":"1/4oz Lime Juice",
+            "i3":"3/4oz Molasses Syrup",
+            "i4":"1 Drop Spruce Beer Soda Extract",
+            "i5":"3/4oz Pine Liqueur",
+            "i6":"1 1/4oz Blended Aged Rum"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Add all ingredients except seltzer into shacker with ice and shack for 15-20 seconds.  Add seltzer into chilled Collins glass over ice and double strain shacker contents over top. Serve with a straw."
+    },
+    {
+        "name": "Port Au Prince",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "pineapple juice", "pineapple", "pineapples", "demerara syrup", "grenadine", "velvet falernum", "falernum", "angostura bitters", "angostura", "bitters", "rum"],
+        "ingredients":{
+            "i1":"1/2oz Lime Juice",
+            "i2":"1/2oz Pineapple Juice",
+            "i3":"1/8tsp Grenadine",
+            "i4":"1/2oz Velvet Falernum",
+            "i5":"1 1/2oz Coffey Still Rum",
+            "i6":"1 Dash Angostura Bitters"
+        },
+        "garnish":{
+            "g1":"Lime Wedge"
+        },
+        "instructions": "Add all ingredients into a shaker with crushed ice and shack for 15-20 seconds.  Dump into a chilled pilsner glass and top of with ice. Garnish with lime wedge and serve with a straw."
+    },
+    {
+        "name": "Mary Pickford",
+        "type":"cocktail",
+        "ingredientsCheck":["pineapple juice", "pineapple", "pineapples", "grenadine", "luxardo maraschino liqueur", "luxardo", "rum"],
+        "ingredients":{
+            "i1":"1 1/2oz Pineapple Juice",
+            "i2":"1 Barspoon Grenadine",
+            "i3":"1/8tsp Grenadine",
+            "i4":"6 Drops Luxardo Maraschino Liqueur",
+            "i5":"1 1/2oz Blended Lightly Aged rum"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Add all ingredients into a shaker with ice and shack for 15-20 seconds. Double strain into a chilled coupe."
+    },
+    {
+        "name": "Daiquiri",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "demerara syrup", "rum"],
+        "ingredients":{
+            "i1":"3/4oz Lime Juice",
+            "i2":"1/2oz Demerara Syrup",
+            "i3":"2oz Blended Lightly Aged Rum"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Add all ingredients into a shaker with ice and shack for 15-20 seconds. Double strain into a chilled coupe."
+    },
+    {
+        "name": "Hotel Nacional Special",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "pineapple", "pineapples", "demerara syrup", "apricot liqueur", "rum"],
+        "ingredients":{
+            "i1":"3 Pineapple Chunk",
+            "i2":"3/4oz Lime Juice",
+            "i3":"1/2oz Demerara Syrup",
+            "i4":"1/2oz Apricot Liqueur",
+            "i5":"1 1/2oz Blended Lightly Aged rum"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Muddle pineapple, lime and demerara syrup in shacker, add apricot liqueur, rum, and ice and shack for 15-20 seconds. Double strain into a chilled coupe."
+    },
+    {
+        "name": "Daisy De Santiago",
+        "type":"cocktail",
+        "ingredientsCheck":["lime juice", "lime", "limes", "demerara syrup", "seltzer", "yellow chartreuse", "chartreuse", "rum"],
+        "ingredients":{
+            "i1":"1oz Lime Juice",
+            "i2":"1 1/2oz Demerara Syrup",
+            "i3":"1oz Seltzer",
+            "i4":"1/2oz Yellow Chartreuse",
+            "i5":"1 1/2oz Blended Lightly Aged rum"
+        },
+        "garnish":{
+            "g1":"Mint Spring"
+        },
+        "instructions": "Add all ingredients except seltzer into a shaker with ice and shack for 15-20 seconds.  Add seltzer to shacker then double strain into a chilled double rocks glass over crushed ice and top of with more ice. Garnish with mint spring and serve with a straw."
+    },
+    {
+        "name": "Twelve Mile Limit",
+        "type":"cocktail",
+        "ingredientsCheck":["lemon juice", "lemon", "lemons", "grenadine", "rye whiskey", "rye", "whiskey", "brandy", "rum"],
+        "ingredients":{
+            "i1":"1/2oz Lemon Juice",
+            "i2":"1/2oz Grenadine",
+            "i3":"1oz Blended Lightly Aged Rum",
+            "i4":"1/2oz Rye Whiskey",
+            "i5":"1/2oz Brandy"
+        },
+        "garnish":{
+            "g1":"Lemon Twist"
+        },
+        "instructions": "Add all ingredients into shaker with ice and shack for 15-20 seconds.  Double strain into a chilled coupe. Garnish with lemon twist."
+    },
+    {
+        "name": "El Presidente",
+        "type":"cocktail",
+        "ingredientsCheck":["grenadine", "dry vermouth", "vermouth", "dry curacao", "curacao", "rum"],
+        "ingredients":{
+            "i1":"1/2oz Grenadine",
+            "i2":"3/4oz Dry Vermouth",
+            "i3":"1/2oz Dry Curacao",
+            "i4":"1 1/2oz Blended Lightly aged rum"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Add all ingredients into shaker with ice and shack for 15-20 seconds.  Double strain into a chilled coupe."
+    },
+    {
+        "name": "Parisian Blonde",
+        "type":"cocktail",
+        "ingredientsCheck":["dry curacao", "curacao", "rum", "sweet cream", "cream"],
+        "ingredients":{
+            "i1":"1oz Dry Curacao",
+            "i2":"1oz Blended Aged Rum",
+            "i3":"1oz Sweet Cream"
+        },
+        "garnish":{
+            "g1":"Cinnamon"
+        },
+        "instructions": "Add curacao and rum into mixing glass with ice and stir until cold. Double strain into a chilled coupe. Float sweet cream on top. Garnish with fresh grated cinnamon."
+    },
+    {
+        "name": "Sweet Cream",
+        "type":"cocktail",
+        "ingredientsCheck":["heavy whipping cream", "heavy cream", "cream", "whipping cream", "cream", "demerara syrup"],
+        "ingredients":{
+            "i1":"6oz Heavy Whipping Cream",
+            "i2":"1oz Demerara Syrup"
+        },
+        "garnish":{
+            "g1":"None"
+        },
+        "instructions": "Blend cream and demerara syrup until slightly thickened."
+    },
+    {
+        "name": "Cora Middleton",
+        "type":"cocktail",
+        "ingredientsCheck":["ggg", "eggs", "lime juice", "lime", "limes", "rum","demerara syrup", "raspberry", "gum syrup", "raspberry gum syrup"],
+        "ingredients":{
+            "i1":"1 egg white",
+            "i2":"2oz Blended Aged Rum",
+            "i3":"3/4oz Lime Juice",
+            "i4":"1/4oz Demerara Syrup",
+            "i5":"1/2oz Raspberry Gum Syrup"
+        },
+        "garnish":{
+            "g1":"Angostura Bitters"
+        },
+        "instructions": "Add all ingredients into shacker and dry shake for 10-15 seconds, add ice and shake for 15-20 seconds. Double strain into a chilled coupe. Garnish with a drop of Angostura bitters."
+    },
+    {
+        "name": "Millionaire Cocktail",
+        "type":"cocktail",
+        "ingredientsCheck":["grenadine", "apricot liqueur", "lime juice", "lime", "limes", "rum", "gin", "sloe gin"],
+        "ingredients":{
+            "i1":"3/4oz Lime Juice",
+            "i2":"1/8tsp grenadine",
+            "i3":"3/4oz Apricot Liqueur",
+            "i4":"1/4oz 3/4oz Hamilton Jamaica Black",
+            "i5":"3/4oz sloe Gin"
+        },
+        "garnish":{
+            "g1":"Lime Wheel"
+        },
+        "instructions": "Add all ingredients into shacker with ice and shake for 15-20 seconds. Double strain into a chilled coupe. Garnish with lime wheel."
+    },
+    {
+        "name": "Batida De Maracuja E Coco",
+        "type":"cocktail",
+        "ingredientsCheck":["coconut", "coconut milk", "passion fruit", "passion fruit puree", "cachaca", "rum", "sweetened condensed milk", "condensed milk"],
+        "ingredients":{
+            "i1":"3/4oz Passion Fruit Puree",
+            "i2":"2oz Coconut Milk",
+            "i3":"1oz Cachaca",
+            "i4":"1oz Sweetened Condensed Milk"
+        },
+        "garnish":{
+            "g1":"Mint Spring"
+        },
+        "instructions": "Add all ingredients except condensed milk into shacker with crushed ice then add condensed milk and shake for 20-50 seconds. Dump into a chilled rocks glass and top off with more ice. Garnish with mint spring and serve with a straw."
+    },
+    {
+        "name": "Batida De Maracuja",
+        "type":"cocktail",
+        "ingredientsCheck":["passion fruit", "passion fruit puree", "cachaca", "rum", "sweetened condensed milk", "condensed milk"],
+        "ingredients":{
+            "i1":"1oz Passion Fruit Puree",
+            "i2":"1oz Cachaca",
+            "i3":"1oz Sweetened Condensed Milk"
+        },
+        "garnish":{
+            "g1":"Mint Spring"
+        },
+        "instructions": "Add all ingredients except condensed milk into shacker with crushed ice then add condensed milk and shake for 20-50 seconds. Dump into a chilled rocks glass and top off with more ice. Garnish with mint spring and serve with a straw."
+    },
+    {
+        "name": "Batida De Maracuja",
+        "type":"cocktail",
+        "ingredientsCheck":["coconut", "coconut milk", "cachaca", "rum", "sweetened condensed milk", "condensed milk"],
+        "ingredients":{
+            "i1":"2oz Coconut Milk",
+            "i2":"1oz Cachaca",
+            "i3":"1oz Sweetened Condensed Milk"
+        },
+        "garnish":{
+            "g1":"Mint Spring"
+        },
+        "instructions": "Add all ingredients except condensed milk into shacker with crushed ice then add condensed milk and shake for 20-50 seconds. Dump into a chilled rocks glass and top off with more ice. Garnish with mint spring and serve with a straw."
+    },
+    {
+        "name": "Wray & Ting",
+        "type":"cocktail",
+        "ingredientsCheck":["grapefruit soda", "grapefruit", "grapefruits", "rum"],
+        "ingredients":{
+            "i1":"1 1/2oz Wray & Nephew White Overproof Rum",
+            "i2":"4oz Ting Grapefruit Soda"
+        },
+        "garnish":{
+            "g1":"Lime Wedge"
+        },
+        "instructions": "Add rum into Collins glass over ice.  Top off with ting soda.  Squeeze lime into drink and add to cup.  Serve with a straw"
+    }
 ]
+
