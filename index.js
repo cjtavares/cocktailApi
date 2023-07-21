@@ -42,7 +42,7 @@ const recipes = (input) => {
     }
   }
 }
-
+console.log(recipes("Li Hing Mui"))
 module.exports = {
     recipes: recipes,
     uniqueIngredients: uniqueIngredients
